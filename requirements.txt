@@ -1,0 +1,6 @@
+# CPU PyTorch: pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch
+mediapipe
+opencv-python
+numpy
+yt-dlp

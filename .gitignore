@@ -221,3 +221,7 @@ __marimo__/
 
 hand_landmarker.task
 pose_landmarker.task
+
+# Downloaded dataset, extracted landmarks, and trained models
+data/
+artifacts/
